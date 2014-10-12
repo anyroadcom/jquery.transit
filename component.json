@@ -9,7 +9,7 @@
     "transition"
   ],
   "dependencies": {
-    "component/jquery": "*"
+    "components/jquery": "^1.0.0"
   },
   "development": {},
   "license": "MIT",
